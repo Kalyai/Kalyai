@@ -1,11 +1,14 @@
-# Профиль GitHub
 
-## Студент-программист с огненным воодушевлением!
-Я студент, который обожает мир программирования и полон энтузиазма. Моя цель - стать backend разработчиком и принести свой вклад в создание инновационных проектов!
+# Hi, I am glad to welcome you <img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30" height="30" alt="GIF">
 
-С умением быстро учиться, страстью к программированию и непрерывным стремлением к совершенствованию, я готов внести вклад в вашу команду и развиваться вместе с ней!
+## A software student with fiery enthusiasm! 
+:fire:  
+I am a student who is passionate about the world of programming and filled with enthusiasm. My goal is to become a backend developer and contribute to the creation of innovative projects!  
+:fire:  
+With a knack for learning quickly, a passion for programming, and a continuous drive for improvement, I am ready to contribute to your team and grow alongside it!  
+:fire:
 
-## Уровень знаний
+## Level of knowledge
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ⭐⭐⭐⭐⭐ (5/5)
 - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ⭐⭐⭐ (3/5)
 - ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3) ⭐⭐ (2/5)
@@ -17,10 +20,10 @@
 - ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square&logo=django) ⭐ (1/5)
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐ (1/5)
 
-## Мои проекты
-Погодное веб приложение: [web_project](https://github.com/Kalyai/Projects)  
-Веб приложение для работы с базой данных: [FastAPI](https://github.com/Kalyai/Tasks)
+## My projects
+Weather Web App: [web_project](https://github.com/Kalyai/Projects)  
+Web App for work with a database : [FastAPI](https://github.com/Kalyai/Tasks)
 
-## Контакты
+## Contacts
 - Email: sergei.kalyaev0007@gmail.com
 - Telegram: https://t.me/Kalyai0007
