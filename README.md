@@ -5,7 +5,6 @@
 
 С умением быстро учиться, страстью к программированию и непрерывным стремлением к совершенствованию, я готов внести вклад в вашу команду и развиваться вместе с ней!
 
-Давайте вместе создадим будущее, которое изменит мир!
 ## Уровень знаний
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ⭐⭐⭐⭐⭐ (5/5)
 - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ⭐⭐⭐ (3/5)
