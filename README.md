@@ -1,16 +1,19 @@
-### Hi there 👋
+# Профиль GitHub
 
-<!--
-**Kalyai/Kalyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Привет! Я страстный программист с опытом работы в области Python, а также интересующийся различными технологиями.
 
-Here are some ideas to get you started:
+## Уровень знаний
+- Python: ⭐⭐⭐⭐⭐ (5/5)
+- HTML: ⭐⭐⭐ (3/5)
+- CSS: ⭐⭐ (2/5)
+- SQL: ⭐ (1/5)
+- CMD: ⭐⭐⭐ (3/5)
+- BASH: ⭐⭐⭐ (3/5)
+- GIT: ⭐⭐⭐ (3/5)
+- SSH: ⭐⭐ (2/5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+- Email: ваш email
+- LinkedIn: ваш профиль LinkedIn
+- Другие социальные сети: ссылки на другие социальные сети, если есть
