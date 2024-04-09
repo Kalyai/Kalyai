@@ -1,6 +1,14 @@
 
 # Hi, I am glad to welcome you <img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30" height="30" alt="GIF">
 
+###
+
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
+
+###
+
 ## A software student with fiery enthusiasm! 
 :fire:  
 I am a student who is passionate about the world of programming and filled with enthusiasm. My goal is to become a backend developer and contribute to the creation of innovative projects!  
