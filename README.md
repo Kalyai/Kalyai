@@ -4,14 +4,16 @@
 
 ### 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="900" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ### 
 
 ## About me
 
-I am a beginner python programmer. :mortar_board:  
+Wrote the first program in 2021 at school. :school:  
+Completely a course on Python web parsing, after the final exams at school. :book:  
+Now I student and want to become a python backend developer. :mortar_board:  
 I strive to get a job in order to move on and gain commercial experience. :computer:  
 Programming is my top priority and I will give it my full attention :rocket:  
 
