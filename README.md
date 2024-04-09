@@ -15,7 +15,7 @@ Wrote the first program in 2021 at school. :school:
 Completely a course on Python web parsing, after the final exams at school. :book:  
 Now I student and want to become a python backend developer. :mortar_board:  
 I strive to get a job in order to move on and gain commercial experience. :computer:  
-Programming is my top priority and I will give it my full attention :rocket:  
+Programming is my top priority and I give it my full attention :rocket:  
 
 ## Level of knowledge
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ⭐⭐⭐⭐⭐ (5/5)
