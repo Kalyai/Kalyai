@@ -28,7 +28,7 @@ Programming is my top priority and I will give it my full attention :rocket:
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐ (1/5)
 
 ## My projects
-Weather Web App: [web_project](https://github.com/Kalyai/Weather-Web-App)  
+Weather Web App: [Weather Web App](https://github.com/Kalyai/Weather-Web-App)  
 Web App for work with a database : [FastAPI](https://github.com/Kalyai/FastAPI)
 
 ## Contacts
