@@ -19,6 +19,7 @@ Programming is my top priority and I give it my full attention :rocket:
 
 ## Level of knowledge
 - ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python) ⭐⭐⭐⭐⭐ (5/5)
+- ![JavaScript](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg) ⭐ (1/5)
 - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5) ⭐⭐⭐ (3/5)
 - ![CSS](https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3) ⭐⭐ (2/5)
 - ![SQL](https://img.shields.io/badge/-SQL-red?style=flat-square&logo=sql) ⭐ (1/5)
