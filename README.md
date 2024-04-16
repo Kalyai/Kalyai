@@ -28,7 +28,7 @@
 - ![GIT](https://img.shields.io/badge/-GIT-lightgrey?style=flat-square&logo=git) ⭐⭐⭐ (3/5)
 - ![SSH](https://img.shields.io/badge/-SSH-green?style=flat-square&logo=ssh) ⭐⭐ (2/5)
 - ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square&logo=django) ⭐ (1/5)
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐ (1/5)
+- ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐⭐ (2/5)
 
 ## Мои проекты
 Weather Web App: [Weather Web App](https://github.com/Kalyai/Weather-Web-App)  
