@@ -27,6 +27,7 @@
 - ![BASH](https://img.shields.io/badge/-BASH-success?style=flat-square&logo=gnu-bash) ⭐⭐⭐ (3/5)
 - ![GIT](https://img.shields.io/badge/-GIT-lightgrey?style=flat-square&logo=git) ⭐⭐⭐ (3/5)
 - ![SSH](https://img.shields.io/badge/-SSH-green?style=flat-square&logo=ssh) ⭐⭐ (2/5)
+- ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb) ⭐ (1/5)
 - ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square&logo=django) ⭐⭐ (2/5)
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐ (1/5)
 
