@@ -30,6 +30,8 @@
 - ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb) ⭐ (1/5)
 - ![Django](https://img.shields.io/badge/-Django-orange?style=flat-square&logo=django) ⭐⭐ (2/5)
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐ (1/5)
+- ![Frappe Framework](https://frappeframework.com/docs/assets/img/frappe-docs-icon.svg) ⭐ (1/5)
+
 
 ## Мои проекты
 Weather Web App: [Weather Web App](https://github.com/Kalyai/Weather-Web-App)  
