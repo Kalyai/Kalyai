@@ -35,8 +35,8 @@
 
 ## Мои проекты
 Weather Web App: [Weather Web App](https://github.com/Kalyai/Weather-Web-App)  
-Web App for work with a database: [FastAPI](https://github.com/Kalyai/FastAPI)
-Oral Calculation Trainer: [Oral Calculation Trainer](https://github.com/Kalyai/Oral-Calculation-Trainer)
+Web App for work with a database: [FastAPI](https://github.com/Kalyai/FastAPI)  
+Oral Calculation Trainer: [Oral Calculation Trainer](https://github.com/Kalyai/Oral-Calculation-Trainer)  
 
 ## Контакты
 - Email: sergei.kalyaev0007@gmail.com
