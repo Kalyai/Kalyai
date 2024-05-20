@@ -26,7 +26,7 @@
 
 
 ## Мои проекты
-[Manual](https://github.com/Kalyai/Manual), https://kalyai.github.io/Manual/SQL_page/SQL.html
+[Manual](https://github.com/Kalyai/Manual)  
 [Weather Web App](https://github.com/Kalyai/Weather-Web-App)  
 [FastAPI](https://github.com/Kalyai/FastAPI)  
 [Oral Calculation Trainer](https://github.com/Kalyai/Oral-Calculation-Trainer)  
