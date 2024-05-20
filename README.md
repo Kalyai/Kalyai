@@ -24,6 +24,8 @@
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-green?style=flat-square&logo=fastapi) ⭐ (1/5)
 - ![Frappe Framework](https://img.shields.io/badge/-Frappe_Framework-green?style=flat-square&logo=frappe) ⭐ (1/5)  
 
+## Leetcode
+<img src="screenshots/leetcode_problems.png" alt="Screenshot">  
 
 ## Мои проекты
 [Manual](https://github.com/Kalyai/Manual)  
