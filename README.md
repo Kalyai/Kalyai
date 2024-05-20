@@ -27,11 +27,11 @@
 ## Leetcode
 <img src="screenshots/leetcode_problems.png" alt="Screenshot">  
 
-## Мои проекты
+## Мои проекты (От более, до менне крупных)
+[Oral Calculation Trainer](https://github.com/Kalyai/Oral-Calculation-Trainer)  
 [Manual](https://github.com/Kalyai/Manual)  
 [Weather Web App](https://github.com/Kalyai/Weather-Web-App)  
 [FastAPI](https://github.com/Kalyai/FastAPI)  
-[Oral Calculation Trainer](https://github.com/Kalyai/Oral-Calculation-Trainer)  
 
 ## Контакты
 - Email: sergei.kalyaev0007@gmail.com
